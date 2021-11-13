@@ -26,11 +26,13 @@ body {
   padding: 20px 30px;
   text-decoration: none;
   font-size: 20px;
-  
-  
-  
-  
+
+  border-left: 2px solid rgba(0, 0, 0, 0.096);
+  height: 20px;
 }
+
+  
+
 
 .topnav a:hover {
   background-color: #ddd;
@@ -43,14 +45,4 @@ body {
 }
 
 
-.logo{
-    width: 200px;
-    display: inline-flex;
-}
 
-.logo img{
-    margin: auto 680px;
-    float: left;
-    width: 600px;
-    height: 700 px;
-}
