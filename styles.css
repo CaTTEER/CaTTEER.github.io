@@ -29,6 +29,7 @@ body {
   
   
   
+  
 }
 
 .topnav a:hover {
@@ -41,3 +42,15 @@ body {
   color: white;
 }
 
+
+.logo{
+    width: 200px;
+    display: inline-flex;
+}
+
+.logo img{
+    margin: auto 680px;
+    float: left;
+    width: 600px;
+    height: 700 px;
+}
