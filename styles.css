@@ -5,7 +5,7 @@ body {
 
 
 .line{
-    margin-top: -102px;
+    margin-top: 0px;
     border-top:1px solid rgba(34, 33, 33, 0.295);
     height:100%;
   }
@@ -45,4 +45,14 @@ body {
 }
 
 
-
+.word {
+    width: 614px;
+    height: 200px;
+    border: 2px solid #8d7b7b54;
+  }
+.word {
+    background-image: url(word42.png);
+    background-repeat: no-repeat;
+    background-position: -30px -15px;
+    background-size: cover;
+  }
